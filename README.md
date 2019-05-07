@@ -21,7 +21,7 @@ passgen name pass_phrase [length] [OPTION]
 --no-sepcials-characters
 ```
 
-## Future Imporve
+## Future Improvements
 I want to improve :
 * how the password is generated
 * how the parameters are taken
